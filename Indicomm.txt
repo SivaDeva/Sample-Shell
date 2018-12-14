@@ -1,0 +1,37 @@
+Q 7: for the questions 16-20 fill the missing number or letter in the given series. 2,7,17,32,52,77,?
+
+	a) 97 b) 91 c) 101 d) 107
+Ans: d) 107
+	2 + 5 = 7
+	7 + 10 = 17
+	17 + 15 = 32
+	32 + 20 = 52
+	52 + 25 = 77
+	5, 10, 15, 20, 25, and 30. 
+	Next number to be added is 30.
+	77 + 30 = 107. 
+
+Q : for the questions 16-20 fill the missing number or letter in the given series. R,M,_,F,D,_?
+
+Q 5 :What least number should ba added to 1056, so that the sum is completely divisible by 23?
+    a)4 b)3 c)2 d)1
+  
+Ans: c) 2
+	1056 ÷ 23 , quotient = 45, remainder = 19
+	Since remainder is not zero.
+	So, 1056 is not exactly divisible by 23
+	So, we take next multiple of 23. Next multiple = 46
+	So, 23 * 46 = 1058
+	So, 1058 is exactly divisible by 23 .
+	1958 - 1056 = 2
+Q 4 : 121*5^4?
+	a)68225 b) 75625 c ) 72325 d ) 71225
+Ans : b) 75625
+
+Q 9 : A:B = 7:5, B:C = 3:4.Now if C is 30, What is A?
+	a) 42 b) 47.5 c) 40 d)31.5
+
+Ans  : d) 31.5
+
+
+ 
